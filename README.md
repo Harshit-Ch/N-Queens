@@ -16,5 +16,6 @@ The NQueens.ipynb file uses backtracking and runs column wise starting from the 
 - Put queen on h6
 - All queens are placed
 - Solution found
+
 ![image](https://github.com/user-attachments/assets/19a217fb-1c36-4589-bcaf-3134aba7e34b)
 
