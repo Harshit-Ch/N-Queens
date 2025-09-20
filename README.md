@@ -20,8 +20,8 @@ The NQueens.ipynb file uses backtracking and runs column wise starting from the 
 ![image](https://github.com/user-attachments/assets/19a217fb-1c36-4589-bcaf-3134aba7e34b)
 
 
-We can also solve the NQueens problem with providing an initial position in the form of co-ordinates.
+Have also solve the NQueens problem with providing an initial position in the form of co-ordinates.
 
-We have also added a verbose param such that if the user doesn't want the list of queen placements, we can ignore them.
+Have also added a verbose param such that if the user doesn't want the list of queen placements, we can ignore them.
 
 TODO: instead of printing all moves, we can just print the list of notations with queens placed
